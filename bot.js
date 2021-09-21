@@ -71,4 +71,4 @@ if(url_json.online == true){
 
 	}
 });
-client.login('t');
+client.login('ここに自分のbotのTOKENをいれて');
