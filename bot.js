@@ -7,12 +7,6 @@ client.on("ready", () => {
 });
 
 client.on('messageCreate', message => {
-	if (message.content === 'まるまさ 反応して!!' && !message.author.bot) {
-		message.reply({ content: '反応した!!', allowedMentions: { repliedUser: false }})
-		console.log(`反応完了 ${client.user.tag}`);
-	}
-
-
 
 	
 	if (message.content.startsWith('!m ') && !message.author.bot) {
