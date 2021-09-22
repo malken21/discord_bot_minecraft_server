@@ -12,6 +12,7 @@ Type 「!m serverIP」 to see server information discord bot
 !m serverIP と入力するとサーバーの情報が表示されるdiscord bot
 <br>
 <br>
+<br>
 Node.js Ver.16.6.0 以上のものをインストール
 <br>
 &emsp;&emsp;:arrow_down_small:
