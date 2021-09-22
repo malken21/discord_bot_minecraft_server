@@ -7,7 +7,7 @@ client.login(Config.TOKEN);
 
 client.on("ready", () => {
   const time = new Date()
-  console.log(`(${time}\nlogin!!${client.user.tag})`);
+  console.log(`${time}\nlogin!!(${client.user.tag})`);
 });
 
 client.on('messageCreate', message => {
