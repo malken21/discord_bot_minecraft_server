@@ -24,14 +24,9 @@ client.on('messageCreate', message => {
 		const https = require("https");
 		const req = https.request(url, (res) => {
 			res.on("data", (url_text) => {
-				var motd = JSON.parse(url_text).motd.replace(/§./g, "");
-				console.log(JSON.parse(url_text));
-
-
-
-
-
+			console.log(JSON.parse(url_text));
             if(JSON.parse(url_text).online == true){
+			var motd = JSON.parse(url_text).motd.replace(/§./g, "");
 			const minecraft_server_embed = new MessageEmbed()
 			.setColor('#0099ff')
 			.setTitle(server)
