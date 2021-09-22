@@ -12,16 +12,17 @@ Type 「!m serverIP」 to see server information discord bot
 !m serverIP と入力するとサーバーの情報が表示されるdiscord bot
 <br>
 <br>
-1.このリポジトリをダウンロード
+1. バージョン 16.6.0 以上の Node.js をインストール
 <br>
-2.Zipを解凍
+2. このリポジトリをダウンロード
 <br>
-3.バージョン 16.6.0 以上の Node.js をインストール
+3. コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
 <br>
-4.コマンドプロンプトなどで`npm install discord.js`と入力してEnter
+4.
 <br>
-5.
+5. 展開したフォルダーコマンドプロンプトを開く
 <br>
+6. コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
 <br>
 <br>
 <br>
