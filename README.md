@@ -1,7 +1,7 @@
 # discord_bot_minecraft_server
 View the status of your Minecraft server ( java edition )
 <br>
-###### Discord.js V13
+#### Discord.js V13
 <br>
 Type 「!m serverIP」 to see server information discord bot
 <br>
