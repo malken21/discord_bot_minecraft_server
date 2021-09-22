@@ -17,7 +17,7 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 2. このリポジトリをダウンロード
 <br>
-3. コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
+3. ダウンロードしたリポジトリをzipファイルになっていると思うので展開
 <br>
 4.
 <br>
@@ -26,7 +26,7 @@ Type 「!m serverIP」 to see server information discord bot
 6. コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
 <br>
 <br>
-<br>
+<br> コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
 <br>
 <br>
 <br>
