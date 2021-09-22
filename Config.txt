@@ -1,4 +1,4 @@
 {
   "TOKEN" : "自分のbotのTOKEN",
-  "Command" : "!minecraft"
+  "Command" : "!m"
 }
