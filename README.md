@@ -26,10 +26,10 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 6. 展開したフォルダーにある Config.json ファイルを開くに自分のbotのTOKENを設定して保存する
 <br>
-7. Config.txt に「自分のbotのTOKEN」と書いてある場所を自分のbotのTOKENにする
+7. Config.json に「自分のbotのTOKEN」と書いてある場所を自分のbotのTOKENにする
 <br>
 8. コマンドプロンプトで node bot.js と入力してEnter
 <br>
-9. DiscordでConfig.txtに設定したbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
+9. DiscordでConfig.jsonに設定したbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
 <br>
 10. botがサーバーの情報を発言したら導入成功  発言しなかったらどこか間違えている
