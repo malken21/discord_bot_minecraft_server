@@ -38,7 +38,7 @@ client.on('messageCreate', message => {
 			} else {
 				const minecraft_server_embed = new MessageEmbed()
 				.setColor('#0099ff')
-				.setTitle("そのサーバーの存在を確認できませんでした")
+				.setTitle(`${server}の存在を確認できませんでした`)
 				.setFooter( `${time}`)
 				  message.channel.send({ embeds: [minecraft_server_embed] });
 			}
