@@ -3,11 +3,11 @@ const https = require("https");
 const fs = require("fs");
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]});
 
-const Config = require("Config.json")
+const { TOKEN, Command } = require("Config.json")
 
 
 
-client.login(Config.TOKEN);
+client.login(TOKEN);
 
 
 
@@ -21,7 +21,7 @@ client.on('messageCreate', message => {
 	fs.readFile("Config.txt", "utf-8", (err, data) => {
 		if (err) throw err;
 
-	if (message.content.startsWith(JSON.parse(data).Command+" ") && !message.author.bot) {
+	if (message.content.startsWith(Command) && !message.author.bot) {
 		const { MessageEmbed } = require('discord.js');
 		const time = new Date()
 
