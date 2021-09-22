@@ -19,16 +19,16 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 3. ダウンロードしたリポジトリをzipファイルになっていると思うので展開
 <br>
-4.
+4. 展開したフォルダーでコマンドプロンプトを開く
 <br>
-5. 展開したフォルダーコマンドプロンプトを開く
+5. コマンドプロンプトで`npm install discord.js -save`と入力してEnter
 <br>
-6. コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
+6. コマンドプロンプトで`npm install discord.js -save`と入力してEnter
 <br>
-<br>
-<br> コマンドプロンプトなどで`npm install discord.js -save`と入力してEnter
-<br>
+7. Config.txt に自分のbotのTOKENを設定
 <br>
 <br>
 <br>
-Config.txt に自分のbotのTOKENを設定
+<br>
+<br>
+<br>
