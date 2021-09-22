@@ -16,6 +16,12 @@ Node.js Ver.16.6.0 以上のものをインストール
 <br>
 &emsp;&emsp;:arrow_down_small:
 <br>
+bot.js のファイルがある場所でコマンドプロンプトを開く
 <br>
+&emsp;&emsp;:arrow_down_small:
 <br>
+「 npm install discord.js 」と入力
 <br>
+&emsp;&emsp;:arrow_down_small:
+<br>
+&emsp;&emsp;:arrow_down_small:
