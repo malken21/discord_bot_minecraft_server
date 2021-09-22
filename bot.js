@@ -7,7 +7,7 @@ client.login(Config.TOKEN);
 
 client.on("ready", () => {
   const time = new Date()
-  console.log(`(${client.user.tag})ログイン完了しました\n${time}`);
+  console.log(`(${time}\nlogin!!${client.user.tag})`);
 });
 
 client.on('messageCreate', message => {
