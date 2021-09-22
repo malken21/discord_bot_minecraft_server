@@ -32,4 +32,4 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 9. DiscordでConfig.txtに設定したbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
 <br>
-10. botがサーバーの情報を発言したら導入成功  発言してこなかったらどこか間違えている
+10. botがサーバーの情報を発言したら導入成功  発言しなかったら間違えている
