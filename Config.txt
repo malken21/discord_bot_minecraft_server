@@ -1,0 +1,4 @@
+{
+  "TOKEN" : "Nzk4NzcyMzE5MTU3NDg1NjMy.X_54sQ.pZPHt3cPbq8sg-3GfHSFXzhasvQ",
+  "Command" : "!minecraft"
+}
