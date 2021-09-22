@@ -26,8 +26,9 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 6. コマンドプロンプトで`npm install discord.js -save`と入力してEnter
 <br>
-7. Config.txt に自分のbotのTOKENを設定
+7. 展開したフォルダーにある Config.txt ファイルを開くに自分のbotのTOKENを設定
 <br>
+8. Config.txt に「自分のbotのTOKEN」と書いてある場所を自分のbotのTOKENにする
 <br>
 <br>
 <br>
