@@ -12,7 +12,7 @@ Type 「!m serverIP」 to see server information discord bot
 !m serverIP と入力するとサーバーの情報が表示されるdiscord bot
 <br>
 <br>
-## 導入方法(Windows)DiscordのbotのTOKENを設定してあること前提
+## 導入方法(Windows)DiscordBotのTOKENを設定してあること前提
 <br>
 1. バージョン 16.6.0 以上の Node.js をインストール
 <br>
