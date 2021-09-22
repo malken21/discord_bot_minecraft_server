@@ -30,7 +30,7 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 8. コマンドプロンプトで node bot.js と入力してEnter
 <br>
-9. DiscordでConfig.txtに設定したTOKENのbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
+9. DiscordでConfig.txtに設定したbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
 <br>
 <br>
 <br>
