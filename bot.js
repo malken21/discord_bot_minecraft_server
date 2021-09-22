@@ -5,11 +5,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 
 const { TOKEN, Command } = require("Config.json")
 
-
-
 client.login(TOKEN);
-
-
 
 client.on("ready", () => {
   const time = new Date()
