@@ -30,6 +30,7 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 8. Config.txt に「自分のbotのTOKEN」と書いてある場所を自分のbotのTOKENにする
 <br>
+9. コマンドプロンプトで`node bot.js`と入力してEnter
 <br>
 <br>
 <br>
