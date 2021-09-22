@@ -14,7 +14,7 @@ Type 「!m serverIP」 to see server information discord bot
 <br>
 Node.js Ver.16.6.0 以上のものをインストール
 <br>
-:arrow_down:
+:arrow_down_small:
 <br>
 <br>
 <br>
