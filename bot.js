@@ -5,7 +5,7 @@ const Config = require("./Config.json")
 client.login(Config.TOKEN);
 
 
-client.on("ready", () => {
+client.on('ready', () => {
   const time = new Date()
   console.log(`${time}\nlogin!!(${client.user.tag})`);
 });
