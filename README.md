@@ -33,6 +33,7 @@ Type 「!m serverIP」 to see server information discord bot
 9. DiscordでConfig.jsonに設定したbotのいるサーバーで【!m [調べたいサーバーのID]】と発言 
 <br>
 10. botがサーバーの情報を発言したら導入成功  発言しなかったらどこか間違えている
+
 ## License(ライセンス)
 日本語: [MarumasaLicense v1.0 (日本語)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-ja.md)
 <br>
